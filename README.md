@@ -51,3 +51,9 @@ Some of the complaint categories include:
 - Fine-tuning **ASR (Automatic Speech Recognition)** systems
 - Practicing **NLP preprocessing** and **audio feature extraction**
 - Multilingual **TTS/ASR/Intent classification** tasks
+  
+---
+
+## 📜 License
+
+This dataset is licensed under the [MIT License](LICENSE). You are free to use, share, and modify it with proper credit.
