@@ -28,7 +28,7 @@ GCD-Government_Complaints_Dataset/
 
 ---
 
-##  Sample Categories (Customizable)
+##  Sample Categories 
 
 Some of the complaint categories include:
 - Water Supply
