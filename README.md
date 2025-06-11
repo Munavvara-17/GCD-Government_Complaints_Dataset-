@@ -7,7 +7,7 @@ This dataset contains **bilingual audio recordings** of government-related custo
 ##  Dataset Structure
 
 GCD-Government_Complaints_Dataset/
-├── english/
+├── english/ \n
 │ ├── audio/ # English audio files categorized by complaint type
 │ └── scripts/ # English text scripts for each complaint type
 ├── hindi/
