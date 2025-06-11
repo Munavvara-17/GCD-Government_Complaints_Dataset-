@@ -1,10 +1,10 @@
-# 📢 Government Complaint Audio Dataset (Hindi & English)
+#  Government Complaint Audio Dataset (Hindi & English)
 
 This dataset contains **bilingual audio recordings** of government-related customer complaints in **Hindi and English**, generated using Text-to-Speech (TTS). It is designed to help in research and development of **speech recognition**, **intent classification**, **sentiment analysis**, and **multilingual voice-based chatbots** for public service platforms.
 
 ---
 
-## 📂 Dataset Structure
+##  Dataset Structure
 
 GCD-Government_Complaints_Dataset/
 ├── english/
@@ -17,7 +17,7 @@ GCD-Government_Complaints_Dataset/
 
 ---
 
-## 🧾 metadata.csv Columns
+##  metadata.csv Columns
 
 | Column      | Description                                                 |
 |-------------|-------------------------------------------------------------|
@@ -28,7 +28,7 @@ GCD-Government_Complaints_Dataset/
 
 ---
 
-## 📊 Sample Categories (Customizable)
+##  Sample Categories (Customizable)
 
 Some of the complaint categories include:
 - Water Supply
@@ -44,7 +44,7 @@ Some of the complaint categories include:
 
 ---
 
-## 🚀 Use Cases
+##  Use Cases
 
 - Training **speech-to-intent models** in Hindi and English
 - Building **smart voice-based complaint redressal systems**
@@ -54,6 +54,6 @@ Some of the complaint categories include:
   
 ---
 
-## 📜 License
+##  License
 
 This dataset is licensed under the [MIT License](LICENSE). You are free to use, share, and modify it with proper credit.
